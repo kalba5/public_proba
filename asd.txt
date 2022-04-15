@@ -1,0 +1,3 @@
+ez egy fajl
+vannak benne utf8 karakterek is
+éáőúöüóíy-.,
